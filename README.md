@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @royuzin
+- <h1> 👋 Hi, I’m @royuzin </h1>
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
